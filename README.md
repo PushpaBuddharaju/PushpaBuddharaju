@@ -35,3 +35,9 @@ Hi, I’m Pushpa, an aspiring Data Analyst with a Bachelor's in Computer Science
 </picture>  
 </a>  
 </p>  
+
+### Projects
+
+- Excel
+    - [Analysis and visualization of P&L data](https://github.com/PushpaBuddharaju/Analysis-and-Visualization-of-P-L-data-in-Excel)
+
