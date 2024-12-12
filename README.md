@@ -43,5 +43,5 @@ Hi, I’m Pushpa, an aspiring Data Analyst with a Bachelor's in Computer Science
 - Power BI
     - [Business Analysis of Scaled Classic Models Database](https://github.com/PushpaBuddharaju/Business-Analysis-using-Scaled-Classic-models-database)
 - SQL
-    - [Covid 19 Data Exploration]
+    - [Covid 19 Data Exploration](https://github.com/PushpaBuddharaju/Covid-19-Data-Exploration)
 
