@@ -45,5 +45,5 @@ Hi, I’m Pushpa, an aspiring Data Analyst with a Bachelor's in Computer Science
 - SQL
     - [Covid 19 Data Exploration](https://github.com/PushpaBuddharaju/Covid-19-Data-Exploration)
 - Tableau
-    - [Uncharted Journeys: Analyzing UK Small Boat Immigration](https://github.com/PushpaBuddharaju/Illegal-Immigrants-to-the-UK-by-Small-Boats)
+    - [Illegal Immigration Trends: Analyzing UK Small Boat Crossings](https://github.com/PushpaBuddharaju/Illegal-Immigrantion-Trends)
 
