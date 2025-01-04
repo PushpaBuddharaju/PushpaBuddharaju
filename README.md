@@ -2,7 +2,7 @@
 
 **Data Enthusiast on a Learning Journey | Building Skills in Data Analysis & Visualization**  
 ---  
-Hi, I’m Pushpa, an aspiring Data Analyst with a Bachelor's in Computer Science and Engineering. After graduating in 2016, I got married so I had to choose to focus on raising my family but stayed engaged with technology through online courses and home projects. Over time, I developed time management, problem-solving, and communication skills. I’m ready to enter the workforce now that my children are older. I’m enrolled in a Data Skills Bootcamp with Just IT, gaining profeciency in Excel, SQL, Power BI, Python, and Azure. I’m building an online presence to showcase my projects as I work towards securing a Data Apprenticeship or Junior Data Analyst role. I’m passionate about continuous learning and enjoy staying healthy through yoga and dancing. I look forward to applying my skills and enthusiasm to contribute to a team in the data field.  
+Hi, I’m Pushpa, an aspiring Data Analyst with a Bachelor's in Computer Science and Engineering. After graduating in 2016, I got married so I had to choose to focus on raising my family but stayed engaged with technology through online courses and home projects. Over time, I developed time management, problem-solving, and communication skills. I’m ready to enter the workforce now that my children are older. I recently completed a Data Skills Bootcamp with Just IT, gaining proficiency in Excel, SQL, Power BI, Python, and Azure. I’m building an online presence to showcase my projects as I work towards securing a Data Apprenticeship or Junior Data Analyst role. I’m passionate about continuous learning and enjoy staying healthy through yoga and dancing. I look forward to applying my skills and enthusiasm to contribute to a team in the data field.  
 
 * 🌍  I'm based in London  
 * ✉️  You can contact me at [pushpab.analytics@gmail.com](mailto:pushpab.analytics@gmail.com)  
@@ -44,4 +44,6 @@ Hi, I’m Pushpa, an aspiring Data Analyst with a Bachelor's in Computer Science
     - [Business Analysis of Scaled Classic Models Database](https://github.com/PushpaBuddharaju/Business-Analysis-using-Scaled-Classic-models-database)
 - SQL
     - [Covid 19 Data Exploration](https://github.com/PushpaBuddharaju/Covid-19-Data-Exploration)
+- Tableau
+    - [Uncharted Journeys: Analyzing UK Small Boat Immigration](https://github.com/PushpaBuddharaju/Illegal-Immigrants-to-the-UK-by-Small-Boats)
 
