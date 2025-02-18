@@ -40,6 +40,7 @@ Hi, I’m Pushpa, an aspiring Data Analyst with a Bachelor's in Computer Science
 
 - Excel
     - [Analysis and visualization of P&L data](https://github.com/PushpaBuddharaju/Analysis-and-Visualization-of-P-L-data-in-Excel)
+    - [Bike Sales Analysis](https://github.com/PushpaBuddharaju/Bike-Sales-Analysis)
 - Power BI
     - [Business Analysis of Scaled Classic Models Database](https://github.com/PushpaBuddharaju/Business-Analysis-using-Scaled-Classic-models-database)
 - SQL
