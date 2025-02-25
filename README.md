@@ -1,11 +1,14 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pushpa Buddharaju  
 
-**Data Enthusiast on a Learning Journey | Building Skills in Data Analysis & Visualization**  
+**Aspiring Data Analyst | Building Skills in Data Analysis & Visualization**  
 ---  
-Hi, I’m Pushpa, an aspiring Data Analyst with a Bachelor's in Computer Science and Engineering. After graduating in 2016, I got married so I had to choose to focus on raising my family but stayed engaged with technology through online courses and home projects. Over time, I developed time management, problem-solving, and communication skills. I’m ready to enter the workforce now that my children are older. I recently completed a Data Skills Bootcamp with Just IT, gaining proficiency in Excel, SQL, Power BI, Python, and Azure. I’m building an online presence to showcase my projects as I work towards securing a Data Apprenticeship or Junior Data Analyst role. I’m passionate about continuous learning and enjoy staying healthy through yoga and dancing. I look forward to applying my skills and enthusiasm to contribute to a team in the data field.  
-
-* 🌍  I'm based in London  
-* ✉️  You can contact me at [pushpab.analytics@gmail.com](mailto:pushpab.analytics@gmail.com)  
+### 🚀 About Me  
+💡 Passionate about **data analytics** and turning raw data into actionable insights.  
+📊 Proficient in **Python, SQL, Excel, Power BI, and Tableau** for data analysis and visualization.  
+📚 Currently working on **real-world projects** to enhance my portfolio.  
+🎯 Looking for opportunities to gain **hands-on experience** in data analytics. 
+🌍  I'm based in London  
+✉️  You can contact me at [pushpab.analytics@gmail.com](mailto:pushpab.analytics@gmail.com)  
 
 ### Skills  
 <p align="left">  
