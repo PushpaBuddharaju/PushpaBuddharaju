@@ -2,11 +2,8 @@
 
 **Aspiring Data Analyst | Building Skills in Data Analysis & Visualization**  
 ---  
-### 🚀 About Me  
-💡 Passionate about **data analytics** and turning raw data into actionable insights.  
-📊 Proficient in **Python, SQL, Excel, Power BI, and Tableau** for data analysis and visualization.  
-📚 Currently working on **real-world projects** to enhance my portfolio.  
-🎯 Looking for opportunities to gain **hands-on experience** in data analytics. 
+I am a highly motivated and detail-oriented individual with a strong foundation in computer science and a passion for transforming complex data into actionable insights. Recently, I completed an intensive Data Skills Bootcamp with Just IT Training, where I gained practical experience in Python, SQL, Power BI, Tableau, Excel, and Azure. I am eager to apply my analytical skills, technical expertise, and business acumen to solve real-world challenges, contribute to data-driven decision-making, and continue developing my skills in a dynamic environment. 
+
 🌍  I'm based in London  
 ✉️  You can contact me at [pushpab.analytics@gmail.com](mailto:pushpab.analytics@gmail.com)  
 
