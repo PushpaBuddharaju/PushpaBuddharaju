@@ -31,4 +31,6 @@ I am a highly motivated and detail-oriented individual with a strong foundation 
     - [Covid 19 Data Exploration](https://github.com/PushpaBuddharaju/Covid-19-Data-Exploration)
 - Tableau
     - [Crossing the Channel: A Data-Driven Look at Illegal Immigration](https://github.com/PushpaBuddharaju/Illegal-Immigrantion-Trends)
+- Python
+    - [Movie Earnings Correlation analysis using Python](https://github.com/PushpaBuddharaju/Movie-Earnings-Correlation-Analysis/blob/main/README.md)
 
